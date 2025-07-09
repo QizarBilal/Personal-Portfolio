@@ -1,0 +1,26 @@
+<svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Monitor/Screen -->
+  <rect x="15" y="20" width="50" height="35" rx="4" fill="#1a1a1a" stroke="#ffffff" stroke-width="2"/>
+  <rect x="18" y="23" width="44" height="29" rx="2" fill="#000000"/>
+  
+  <!-- Design Elements on Screen -->
+  <rect x="22" y="27" width="12" height="8" rx="2" fill="#ff0000" opacity="0.8"/>
+  <circle cx="45" cy="35" r="4" fill="#ffffff" opacity="0.6"/>
+  <rect x="50" y="42" width="10" height="6" rx="1" fill="#ff0000"/>
+  
+  <!-- Monitor Stand -->
+  <rect x="35" y="55" width="10" height="8" fill="#ffffff"/>
+  <rect x="25" y="63" width="30" height="3" rx="1" fill="#ffffff"/>
+  
+  <!-- Design Tools -->
+  <path d="M20 15 L25 10 L30 15 L25 20 Z" fill="#ff0000"/>
+  <rect x="50" y="12" width="3" height="15" rx="1" fill="#ffffff"/>
+  <circle cx="52" r="2" fill="#ff0000"/>
+  
+  <!-- Pen/Stylus -->
+  <path d="M55 65 L72 48 L70 46 L53 63 Z" fill="#ffffff" stroke="#ff0000" stroke-width="1"/>
+  <circle cx="71" cy="47" r="2" fill="#ff0000"/>
+  
+  <!-- Creative Spark -->
+  <path d="M35 5 L37 10 L42 8 L38 13 L43 15 L37 17 L35 22 L33 17 L28 15 L33 13 L28 8 L33 10 Z" fill="#ff0000" opacity="0.7"/>
+</svg>

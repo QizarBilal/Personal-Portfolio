@@ -1,0 +1,21 @@
+<svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Game Controller Background -->
+  <rect x="10" y="25" width="60" height="35" rx="8" fill="#1a1a1a" stroke="#ffffff" stroke-width="2"/>
+  
+  <!-- D-pad -->
+  <rect x="18" y="35" width="12" height="4" rx="2" fill="#ffffff"/>
+  <rect x="22" y="31" width="4" height="12" rx="2" fill="#ffffff"/>
+  
+  <!-- Action Buttons -->
+  <circle cx="58" cy="35" r="4" fill="#ff0000"/>
+  <circle cx="50" cy="43" r="4" fill="#ff0000"/>
+  <circle cx="58" cy="51" r="4" fill="#ff0000"/>
+  <circle cx="66" cy="43" r="4" fill="#ff0000"/>
+  
+  <!-- Fire Effect -->
+  <path d="M35 15 C30 20, 25 25, 30 30 C35 35, 45 35, 50 30 C55 25, 50 20, 45 15 C42 12, 38 12, 35 15 Z" fill="#ff0000" opacity="0.8"/>
+  <path d="M38 18 C35 22, 32 25, 35 28 C38 31, 42 31, 45 28 C48 25, 45 22, 42 18 C41 16, 39 16, 38 18 Z" fill="#ffffff"/>
+  
+  <!-- Game Text -->
+  <text x="40" y="70" text-anchor="middle" fill="#ffffff" font-family="Arial Black" font-size="8" font-weight="bold">GAME</text>
+</svg>
